@@ -2,6 +2,7 @@
 
 ## Utility
 To plot atomic-orbital-projected band structure from `VASP` output files `KPOINTS` , `OUTCAR` and `PROCAR`.
+![example](https://github.com/liming-liu/projected_band_structure/blob/master/mos2-wse2_band.png)
 
 ## Guide
 Most part of the code should be modified for your system.
