@@ -9,5 +9,5 @@ Most lines of the code should be modified for your system.
 
 ## bugs
 1. The `for` loop for extracting band energies and calculating the projection parameter is **EXTREMELY SLOW**.
-2. Using realines() for PROCAR consumes memory.
+2. Using `realines()` for PROCAR consumes memory.
 3. ...
